@@ -1,6 +1,8 @@
 Redmine LaTeX MathJax Macro Plugin
 ==================================
 
+forked from 5inf/redmine_latex_mathjax, just for integration.  We need tags!
+
 This is a simple little plugin which allows mathematical notation to be used within Redmine.
 
 Requirements
@@ -12,7 +14,7 @@ Other versions are not tested but may work.
 Installation
 ------------
 1. Download archive and extract to /your/path/to/redmine/plugins/
-2. If you downloaded the zipball (https://github.com/process91/redmine_latex_mathjax/archive/master.zip), rename the extracted directory to 'redmine_latex_mathjax'
+2. If you downloaded the zipball (https://github.com/cosmobots/redmine_latex_mathjax/archive/master.zip), rename the extracted directory to 'redmine_latex_mathjax'
 3. (Optional) Modify init.rb. For example, if you host MathJax yourself you can point to your own MathJax location.
 4. run
      cd /var/www/redmine
